@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3576076947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 680917d3ecc3ecd790118ec16a16c3d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b6e923642e2a34c29de99e0054cb59b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 193
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SOUTH PACIFIC VILLAGE/Vegetation/Trees/bush_type/Wild_Palm_M.prefab
+- Assets/SOUTH PACIFIC VILLAGE/Vegetation/Trees/Camp_palm/Camp_tree 2.prefab
+- Assets/SOUTH PACIFIC VILLAGE/Vegetation/Trees/Village_palm/Coconut_Palm_Tree01
+  1.prefab
+- Assets/SOUTH PACIFIC VILLAGE/Vegetation/Trees/Village_palm/Coconut_Palm_Tree06.prefab
+- Assets/SOUTH PACIFIC VILLAGE/Vegetation/Trees/Village_palm/Coconut_Palm_Tree07.prefab
+- Assets/SOUTH PACIFIC VILLAGE/Vegetation/Trees/bush_type/Fern.prefab
+- Assets/SOUTH PACIFIC VILLAGE/Vegetation/Trees/Village_palm/Coconut_Palm_Tree10.prefab
+- Assets/SOUTH PACIFIC VILLAGE/Vegetation/Trees/Village_palm/Coconut_Palm_Tree01.prefab
+- Assets/SOUTH PACIFIC VILLAGE/Vegetation/Trees/Camp_palm/Camp_tree.prefab
+Dependencies: []

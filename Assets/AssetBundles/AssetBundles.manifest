@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4182852764
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: coconut_palm_tree
+      Dependencies: {}
+    Info_1:
+      Name: mynewbundle
+      Dependencies: {}
+    Info_2:
+      Name: 3_ships
+      Dependencies:
+        Dependency_0: mynewbundle
+    Info_3:
+      Name: 10_ships
+      Dependencies: {}
+    Info_4:
+      Name: 50_ships
+      Dependencies: {}

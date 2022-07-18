@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4227096085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8f07d96e42173ac9332a7a3e8a44ad9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d9a489d09180edb229eea725d93e72c8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Stylized_Pirate_Ship/10_ships (1) Variant.prefab
+- Assets/BundledAssets/10_ships.prefab
+Dependencies: []
