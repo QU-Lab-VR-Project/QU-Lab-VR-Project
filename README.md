@@ -1,7 +1,7 @@
 <div align="center">
    <img src=".github/assets/images/logo.svg" height="130px" alt="QU Lab XR Project">
 
-**<h3>QU Lab XR Project</h3>**
+**<h3>QU Lab VR Project</h3>**
 
    <p align="center">
    Project Repo for the Quality and Usability Lab Advanced Project: XR computing and information transfer
