@@ -4,7 +4,8 @@
 **<h3>QU Lab XR Project</h3>**
 
    <p align="center">
-   A project repo for the doody
+   Project Repo for the Quality and Usability Lab Advanced Project: XR computing and information transfer
+across the network - 3D Models Transfer
    </p>
 
 </div>
