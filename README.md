@@ -14,10 +14,8 @@ across the network - 3D Models Transfer
 
 <br>
 
-## 🪄 Example section
+## 🪄 Motivation
 
-### 🪄 Example subsection
+With more and more applications adopting and intergrating XR technology and due to insufficient computing power on the hardware side to support most of the unique content that XR can provide, shifting most of the computation to the network and handling information transfer across it instead of Head mounted devices (HDMs) or smartphones, arises as one of the most promising solutions.
 
-lorem ipsum dolor sit amit
-
-### ✹ Track Question
+### Goal -> Identify the limitations
