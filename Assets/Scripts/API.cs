@@ -5,6 +5,7 @@ using UnityEngine.Networking;
 
 public class API : MonoBehaviour {
 
+    //our server
     const string BundleFolder = "https://qu-assets.surge.sh/assets/";
 
     public void GetBundleObject(string assetName, UnityAction<GameObject> callback, Transform bundleParent) {
@@ -13,14 +14,7 @@ public class API : MonoBehaviour {
 
     IEnumerator GetDisplayBundleRoutine(string assetName, UnityAction<GameObject> callback, Transform bundleParent) {
 
-        string bundleURL = BundleFolder + assetName; //+ "-";
-
-        //append platform to asset bundle name
-//#if UNITY_ANDROID
-//        bundleURL += "Android";
-//#else
-//        bundleURL += "IOS";
-//#endif
+        string bundleURL = BundleFolder + assetName;
 
         Debug.Log("Requesting bundle at " + bundleURL);
 

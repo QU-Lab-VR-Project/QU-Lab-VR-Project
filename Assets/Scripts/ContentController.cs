@@ -46,15 +46,16 @@ public class ContentController : MonoBehaviour {
 
     }
 
+    //animation of the boats by constantly updating the position
     void Update()
     {
         transform.position += transform.forward * Time.deltaTime * speed;
     }
 
-    void DestroyAllChildren() {
+    /*void DestroyAllChildren() {
         foreach (Transform child in transform) {
             Destroy(child.gameObject);
         }
-    }
+    }*/
 
 }
