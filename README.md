@@ -20,6 +20,6 @@ With more and more applications adopting and intergrating XR technology and due 
 
 ### Goal -> Identify the limitations
 
-## 📂In this Project
+## 📂 In this Project
 
 In this project you will find both scences we presented: the one for VR where the server can't be reached, and the one for unity where everything works perfectly. You can find both scences in Assets/Scenes and switch between them. 
